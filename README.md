@@ -2,7 +2,7 @@
 
 **Installation**
 
-```git clone https://github.com/xoyves/Yves-NGL-Tripper.git```
+```git clone https://github.com/xoyves/Yves-NGLTripper.git```
 
 ```cd Yves-NGLTripper```
 
