@@ -4,7 +4,7 @@
 
 ```git clone https://github.com/xoyves/Yves-NGL-Tripper.git```
 
-```cd Yves-NGL-Tripper```
+```cd Yves-NGLTripper```
 
 ```pip install -r requirements.txt```
 
