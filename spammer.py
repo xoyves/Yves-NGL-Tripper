@@ -11,7 +11,7 @@ def ngl():
 
     os.system('cls' if os.name == 'nt' else 'clear')
 
-    print(Colorate.Vertical(Colors.dark_red,"""
+    print(Colorate.Vertical(Colors.dark_red_to_red,"""
  __  __     __   __   ______     ______        __  __     __  __     ______     ______     ______     __     __   __    
 /\ \_\ \   /\ \ / /  /\  ___\   /\  ___\      /\ \_\ \   /\ \/\ \   /\  ___\   /\  ___\   /\  ___\   /\ \   /\ "-.\ \   
 \ \____ \  \ \ \'/   \ \  __\   \ \___  \     \ \  __ \  \ \ \_\ \  \ \___  \  \ \___  \  \ \  __\   \ \ \  \ \ \-.  \  
