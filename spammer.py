@@ -11,7 +11,7 @@ def ngl():
 
     os.system('cls' if os.name == 'nt' else 'clear')
 
-    print(Colorate.Vertical(Colors.darkred,"""
+    print(Colorate.Vertical(Colors.dark_red,"""
  __  __     __   __   ______     ______        __  __     __  __     ______     ______     ______     __     __   __    
 /\ \_\ \   /\ \ / /  /\  ___\   /\  ___\      /\ \_\ \   /\ \/\ \   /\  ___\   /\  ___\   /\  ___\   /\ \   /\ "-.\ \   
 \ \____ \  \ \ \'/   \ \  __\   \ \___  \     \ \  __ \  \ \ \_\ \  \ \___  \  \ \___  \  \ \  __\   \ \ \  \ \ \-.  \  
@@ -19,11 +19,11 @@ def ngl():
   \/_____/   \/_/      \/_____/   \/_____/      \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/   \/_/   \/_/ \/_/ 
     """))
 
-    nglusername = input(Colorate.Vertical(Colors.darkred,"Username: "))
-    message = input(Colorate.Vertical(Colors.darkred,"Message: "))
-    Count = int(input(Colorate.Vertical(Colors.darkred,"Count:")))
+    nglusername = input(Colorate.Vertical(Colors.dark_red,"Username: "))
+    message = input(Colorate.Vertical(Colors.dark_red,"Message: "))
+    Count = int(input(Colorate.Vertical(Colors.dark_red,"Count:")))
 
-    print(Colorate.Vertical(Colors.darkred,"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"))
+    print(Colorate.Vertical(Colors.dark_red,"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"))
 
     value =0
     notsend =0
