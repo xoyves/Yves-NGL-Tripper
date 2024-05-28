@@ -2,9 +2,9 @@
 
 **Installation**
 
-```git clone https://github.com/xoyves/Yves-NGLTripper.git```
+```git clone https://github.com/xoyves/Yves-NGLTRIPPER.git```
 
-```cd Yves-NGLTripper```
+```cd Yves-NGLTRIPPER```
 
 ```pip install -r requirements.txt```
 
